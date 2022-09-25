@@ -12,7 +12,7 @@
     <img src="./screenshot\rode project.PNG" alt="Logo" width="80" height="80">
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://project-rode-clone.netlify.app/">View Demo</a>
   </p>
 </div>
 

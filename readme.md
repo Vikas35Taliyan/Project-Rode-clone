@@ -46,10 +46,6 @@ In this project i have created a Homepage of Rode website which is the part of m
 * ![](https://img.shields.io/badge/TECH-HTML-brightgreen)
 * ![](https://img.shields.io/badge/TECH-TAILWIND%20CSS-yellowgreen)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
